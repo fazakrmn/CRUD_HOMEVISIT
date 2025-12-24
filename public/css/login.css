@@ -1,0 +1,408 @@
+.login {
+  background-color: #ffffff;
+  overflow-x: hidden;
+  width: 100%;
+  min-width: 572px;
+  height: 588px;
+  position: relative;
+}
+
+.login .rectangle {
+  width: 100.35%;
+  height: 100.34%;
+  top: 0;
+  left: 0;
+  background-color: #e7f2ef;
+  border-radius: 50px;
+  box-shadow: 0px 82px 40px -14px #64646414;
+  position: absolute;
+  border: 1px solid;
+}
+
+.login .group {
+  position: absolute;
+  top: calc(50.00% - 164px);
+  left: calc(50.00% - 190px);
+  width: 381px;
+  height: 266px;
+}
+
+.login .checkbox-label {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 9px;
+  position: absolute;
+  top: calc(50.00% + 32px);
+  left: calc(50.00% - 172px);
+  overflow: hidden;
+}
+
+.login .checkbox {
+  position: relative;
+  width: 21.52px;
+  height: 22px;
+}
+
+.login .div {
+  width: 109.29%;
+  height: 109.09%;
+  top: -4.55%;
+  left: -4.65%;
+  border-radius: 2px;
+  border-color: #708993;
+  position: absolute;
+  border: 1px solid;
+}
+
+.login .new-shape {
+  position: absolute;
+  width: 54.55%;
+  height: 34.71%;
+  top: 30.26%;
+  left: 20.24%;
+}
+
+.login .terms {
+  position: relative;
+  width: fit-content;
+  font-family: "Zen Kaku Gothic Antique-Regular", Helvetica;
+  font-weight: 400;
+  color: #708993;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: 22.5px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.login .group-2 {
+  position: absolute;
+  width: 381px;
+  height: 151px;
+  top: 0;
+  left: 0;
+  box-shadow: 0px 1px 31px #00000021;
+}
+
+.login .input-name-copy {
+  position: absolute;
+  width: 99.74%;
+  height: 45.03%;
+  top: 54.97%;
+  left: 0;
+}
+
+.login .rectangle-2 {
+  width: 100.53%;
+  height: 102.94%;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 25px;
+  border-color: #e7f2ef;
+  position: absolute;
+  border: 1px solid;
+}
+
+.login .ex-icon-eye {
+  position: absolute;
+  width: 4.21%;
+  height: 23.53%;
+  top: 38.24%;
+  left: 93.16%;
+  border-radius: 25px;
+  background-image: url(./img/eye.png);
+  background-size: 100% 100%;
+}
+
+.login .group-wrapper {
+  position: absolute;
+  width: 330px;
+  height: 47px;
+  top: 12px;
+  left: 17px;
+  display: flex;
+}
+
+.login .group-3 {
+  flex: 1;
+  width: 334.24px;
+  position: relative;
+}
+
+.login .text-wrapper {
+  position: absolute;
+  width: 98.80%;
+  height: 60.27%;
+  top: 39.73%;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Zen Kaku Gothic Antique-Light", Helvetica;
+  font-weight: 300;
+  color: #95a5a6;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 28.2px;
+  white-space: nowrap;
+}
+
+.login .PASSWORD {
+  position: absolute;
+  width: 17.05%;
+  height: 40.67%;
+  top: 0;
+  left: 0;
+  font-family: "Zen Kaku Gothic Antique-Medium", Helvetica;
+  font-weight: 500;
+  color: #708993;
+  font-size: 10.3px;
+  letter-spacing: 0;
+  line-height: 18.1px;
+  white-space: nowrap;
+}
+
+.login .input-name {
+  position: absolute;
+  width: 99.74%;
+  height: 45.03%;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 25px;
+}
+
+.login .group-4 {
+  position: relative;
+  width: 87.96%;
+  height: 66.57%;
+  top: 17.49%;
+  left: 3.95%;
+}
+
+.login .johndoe-example-com {
+  position: absolute;
+  width: 98.80%;
+  height: 68.85%;
+  top: 31.15%;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Zen Kaku Gothic Antique-Regular", Helvetica;
+  font-weight: 400;
+  color: #95a5a6;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 28.2px;
+  white-space: nowrap;
+}
+
+.login .EMAIL-ADDRESS {
+  position: absolute;
+  width: 8.98%;
+  height: 41.97%;
+  top: 0;
+  left: 0;
+  font-family: "Zen Kaku Gothic Antique-Medium", Helvetica;
+  font-weight: 500;
+  color: #708993;
+  font-size: 10.3px;
+  letter-spacing: 0;
+  line-height: 18.1px;
+  white-space: nowrap;
+}
+
+.login .btn-pry-template {
+  position: absolute;
+  width: 100.26%;
+  height: 24.02%;
+  top: 75.98%;
+  left: 0;
+  box-shadow: 0px 1px 47px #00000040;
+}
+
+.login .rectangle-3 {
+  width: 99.48%;
+  height: 100%;
+  top: 0;
+  background-color: #708993;
+  border-radius: 50px;
+  position: absolute;
+  left: 0;
+}
+
+.login .PROCEED {
+  position: absolute;
+  width: 10.21%;
+  height: 45.31%;
+  top: 28.12%;
+  left: 44.76%;
+  font-family: "Zen Kaku Gothic Antique-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 28.2px;
+  white-space: nowrap;
+}
+
+.login .group-5 {
+  position: absolute;
+  width: 39.07%;
+  height: 4.92%;
+  top: 70.75%;
+  left: 29.37%;
+}
+
+.login .button {
+  all: unset;
+  box-sizing: border-box;
+  position: absolute;
+  width: 40.27%;
+  height: 100%;
+  top: 0;
+  left: 59.73%;
+}
+
+.login .rectangle-4 {
+  width: 100%;
+  height: 106.91%;
+  top: -3.45%;
+  border-radius: 119px;
+  border: 1px solid;
+  border-color: #708993;
+  position: absolute;
+  left: 0;
+}
+
+.login .SIGN-IN {
+  position: absolute;
+  width: 54.44%;
+  height: 79.43%;
+  top: 6.91%;
+  left: 21.67%;
+  font-family: "Zen Kaku Gothic Antique-Medium", Helvetica;
+  font-weight: 500;
+  color: #708993;
+  font-size: 12.8px;
+  text-align: right;
+  letter-spacing: 0.70px;
+  line-height: 22.5px;
+  white-space: nowrap;
+}
+
+.login .already-a-member-LOG {
+  position: absolute;
+  width: 57.27%;
+  height: 65.61%;
+  top: 17.27%;
+  left: 0;
+  font-family: "Poppins-Medium", Helvetica;
+  font-weight: 500;
+  color: #708993;
+  font-size: 12.8px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.login .log-in-to-qpay {
+  position: absolute;
+  width: 66.43%;
+  height: 6.46%;
+  top: 8.16%;
+  left: 16.61%;
+  font-family: "Zen Kaku Gothic Antique-Bold", Helvetica;
+  font-weight: 700;
+  color: #708993;
+  font-size: 31.2px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 37.5px;
+}
+
+.login .btn-google-light {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 3px;
+  position: absolute;
+  top: 464px;
+  left: 191px;
+  border-radius: 100px;
+}
+
+.login .official-buttons {
+  display: inline-flex;
+  height: 40px;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 12px;
+  position: relative;
+  background-color: #ffffff;
+  border-radius: 100px;
+  border: 1px solid;
+  border-color: #747775;
+}
+
+.login .logo-googleg {
+  position: relative;
+  width: 18px;
+  height: 18px;
+}
+
+.login .shape {
+  position: absolute;
+  top: 7px;
+  left: 9px;
+  width: 9px;
+  height: 8px;
+}
+
+.login .img {
+  position: absolute;
+  top: 11px;
+  left: 1px;
+  width: 14px;
+  height: 7px;
+}
+
+.login .shape-2 {
+  position: absolute;
+  top: 5px;
+  left: 0;
+  width: 4px;
+  height: 8px;
+}
+
+.login .shape-3 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  width: 14px;
+  height: 7px;
+}
+
+.login .shape-4 {
+  position: absolute;
+  top: -5103px;
+  left: -1915px;
+  width: 18px;
+  height: 18px;
+}
+
+.login .sign-in-with-google {
+  position: relative;
+  width: fit-content;
+  font-family: "Roboto-Medium", Helvetica;
+  font-weight: 500;
+  color: #1f1f1f;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
